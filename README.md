@@ -48,9 +48,6 @@ Open frontend/index.html in your browser
 
 Or use the Live Server extension in VS Code
 
-📷 Preview:
-Add screenshots or a short demo video here if available
-
 📚 Future Enhancements:
 🗓 Add task due dates
 
